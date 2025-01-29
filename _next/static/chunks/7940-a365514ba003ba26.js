@@ -84,7 +84,7 @@
                   className: "flex flex-col gap-y-[.5px] items-start ",
                   children: [(0, t.jsx)("h1", {
                     className: "w-full text-sm",
-                    children: (v.name).replace("Poolshark","Qui AI")
+                    children: (v.name).replace("Poolshark","ITHACA")
                   }), (0, t.jsx)("span", {
                     className: "text-[11px] text-grey2",
                     children: (v.symbol).replace("FIN","ITHACA")

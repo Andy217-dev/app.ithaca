@@ -19617,7 +19617,7 @@
                           children: "APYs being indicative"
                         }), (0, n.jsx)("p", {
                           className: "text-xs mt-1 text-white/60",
-                          children: "All APYs listed on this site are for guidance purposes only. Qui AI employs strategies across a broad range of markets. The available liquidity in said markets changes constantly. As a result, Qui AI cannot calculate APYs in real time. Users acknowledge this and also acknowledge the risk of negative returns on their deposited funds during certain time periods. By depositing funds in Qui AI's vaults, the user assumes any associated risk of loss."
+                          children: "All APYs listed on this site are for guidance purposes only. Ithaca AI employs strategies across a broad range of markets. The available liquidity in said markets changes constantly. As a result, Ithaca AI cannot calculate APYs in real time. Users acknowledge this and also acknowledge the risk of negative returns on their deposited funds during certain time periods. By depositing funds in Ithaca AI's vaults, the user assumes any associated risk of loss."
                         })]
                       }), (0, n.jsxs)("div", {
                         className: "mt-5",
@@ -19626,7 +19626,7 @@
                           children: "Risk of loss of funds when using our products"
                         }), (0, n.jsx)("p", {
                           className: "text-xs mt-1 text-white/60",
-                          children: "Our products are a smart contracts based suite of technologies that relies on blockchain technology. By depositing your funds into our vaults you recognize and assume all risks inherent in such technologies, including but not limited to the risk that the smart contracts underlying our vaults could fail, resulting in a total loss of user funds. Qui AI is not responsible for any such losses."
+                          children: "Our products are a smart contracts based suite of technologies that relies on blockchain technology. By depositing your funds into our vaults you recognize and assume all risks inherent in such technologies, including but not limited to the risk that the smart contracts underlying our vaults could fail, resulting in a total loss of user funds. Ithaca AI is not responsible for any such losses."
                         })]
                       }), (0, n.jsxs)("div", {
                         className: "mt-5",
@@ -19635,7 +19635,7 @@
                           children: "UI usage and legal jurisdictions"
                         }), (0, n.jsx)("p", {
                           className: "text-xs mt-1 text-white/60",
-                          children: "Our Interface is NOT offered to persons or entities who reside in, are citizens of, are incorporated in, or have a registered office in the United States of America or any Prohibited Localities. Qui AI is a decentralized finance project and does not hold any securities licenses in the U.S. or any other jurisdiction. Any investment made through our protocol shall be made with this in mind."
+                          children: "Our Interface is NOT offered to persons or entities who reside in, are citizens of, are incorporated in, or have a registered office in the United States of America or any Prohibited Localities. Ithaca AI is a decentralized finance project and does not hold any securities licenses in the U.S. or any other jurisdiction. Any investment made through our protocol shall be made with this in mind."
                         })]
                       }), (0, n.jsx)("div", {
                         className: "mt-5",
@@ -21977,7 +21977,7 @@
             wallets: r
           }
         })({
-          appName: "Qui AI UI",
+          appName: "Ithaca AI UI",
           chains: eu
         }).connectors,
         ed = (0, D.eI)({
@@ -22049,7 +22049,7 @@
           }, [K.tq]), (0, h.jsxs)(h.Fragment, {
             children: [(0, h.jsx)(H(), {
               children: (0, h.jsx)("title", {
-                children: "Qui AI"
+                children: "Ithaca AI"
               })
             }), (0, h.jsx)(ea.x, {
               richColors: !0,

@@ -66,7 +66,7 @@
                       height: 70,
                       quality: "90",
                       objectFit: "contain",
-                      alt: "Qui AI logo"
+                      alt: "Ithaca AI logo"
                     })
                   })
                 })
