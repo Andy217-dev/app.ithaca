@@ -77,7 +77,7 @@
                       height: 70,
                       quality: "90",
                       objectFit: "contain",
-                      alt: "Ithaca AI logo"
+                      alt: "ITHACA logo"
                     })
                   })
                 })
